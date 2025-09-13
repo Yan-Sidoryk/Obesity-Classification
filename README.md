@@ -52,6 +52,8 @@ In this project, the main objectives are:
 ## The resutls
 
 For the evaluation of the model we used macro F1-score as the primary evaluation metric to ensure fair performance across all obesity classes. 
+
 The final kaggle submission score was **0.9665**
 The final project grade - 18/20
+
 
